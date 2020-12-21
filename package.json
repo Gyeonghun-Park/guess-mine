@@ -1,0 +1,7 @@
+{
+  "name": "guess-mine",
+  "version": "1.0.0",
+  "description": "Realtime Drawing Game built with SocketIO, Gulp and Node",
+  "main": "index.js",
+  "license": "MIT"
+}
